@@ -18,5 +18,9 @@ package com.zpzeng.controller;
  */
 
 public class MyController {
+	
+	public static void main(String[] args) {
+		System.out.println("I'm a Controlller");
+	}
 
 }
